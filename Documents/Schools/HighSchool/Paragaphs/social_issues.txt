@@ -1,8 +1,49 @@
 -- paragaph to presentation about social issues --
 
 
-_dtd_: definations
+bin: definations
+
+(intro)
 
 Social issue, a state of affairs that negatively affects the personal or social lives of individuals
 or the well-being of communities or larger groups within a society and about which there is usually public disagreement as to its nature, causes, or solution.
 The term social issue is frequently used synonymously with social problem.
+
+_ngha_: affections
+
+Social issues profoundly affect communities, shaping lives and societal fabric.
+They include poverty, inequality, discrimination, and environmental degradation.
+They lead to marginalization, hinder economic development, and breed resentment.
+They also impede public health, limiting access to healthcare and education.
+Addressing social issues is crucial for fostering inclusive and prosperous communities.
+It requires collective effort, policy reforms, and a commitment to social justice.
+By tackling these issues, communities can work towards a more equitable and sustainable future.
+
+_dtd_: participants and solutions
+
+Participants in a social awareness campaign, including individuals, community leaders, organizations, and governments, drive positive change.
+They raise awareness, educate, and mobilize support for solutions. Solutions involve addressing root causes and may include initiatives like job training, affordable housing, and education.
+Collaboration is vital for developing comprehensive strategies.
+Together, we can create inclusive and equitable communities.
+
+bob: activities included
+
+In a social awareness campaign, different activities are done to achieve specific goals:
+
+    -Spread awareness: Events and initiatives are organized to teach the public about social issues and their impact. The goal is to increase knowledge and inspire action.
+
+    -Empower individuals: Workshops and training sessions give people the skills needed to address social issues effectively. The aim is to empower them to become advocates for change.
+
+    -Push for change: By engaging with policymakers and decision-makers, the campaign tries to influence policies and laws that promote fairness and justice.
+
+    -Involve communities: Through reaching out and getting communities involved, the campaign aims to find solutions to social issues together. The goal is to build trust, encourage conversations, and support community-led initiatives.
+
+    -Use media and social media: Media campaigns and social media activism are used to raise awareness, shape public opinion, and motivate people to take action.
+
+    -Foster collaboration: By forming partnerships with organizations and stakeholders, resources and expertise are combined to work towards common goals.
+
+long: overall
+
+Overall, the campaign aims to raise awareness, empower individuals,
+push for change, involve communities, and foster collaboration.
+By doing these things, social awareness campaigns work towards creating a fairer and more inclusive society.
