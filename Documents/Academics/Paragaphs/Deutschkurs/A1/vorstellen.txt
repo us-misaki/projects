@@ -1,0 +1,4 @@
+Hallo, ich bin [Name]. Ich möchte dir etwas über mich erzählen. 
+Ich bin [Alter] Jahre alt und wohne in [Ort]. Meine Hobbys sind [Hobby 1], [Hobby 2] und [Hobby 3]. 
+Ich mag Tiere, besonders Hunde. In meiner Freizeit gehe ich gerne spazieren und lese Bücher. 
+Ich freue mich darauf, dich kennenzulernen und hoffe, dass du auch etwas über mich erfährst.
