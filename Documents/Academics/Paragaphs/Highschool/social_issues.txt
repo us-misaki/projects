@@ -51,6 +51,5 @@ quy_duong: ( continue this )
 
 long: overall
 
-Overall, the campaign aims to raise awareness, empower individuals,
-push for change, involve communities, and foster collaboration.
+Overall, the campaign aims to raise awareness, empower individuals, push for change, involve communities, and foster collaboration.
 By doing these things, social awareness campaigns work towards creating a fairer and more inclusive society.
