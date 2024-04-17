@@ -1,0 +1,25 @@
+Fantasy Forest Village:
+X: -1840 Z: -280
+
+Dense Forest Village:
+X: 1200 Z: -370
+
+Pine Taiga Village:
+X: -470 Z: -1120
+
+Dried Lush Forest Village:
+X: -200	Z: 1240
+
+End Portal Tower:
+x: -70 Z:-540
+
+Coral Reef:
+X: -770 Z: 1300
+
+Custom Ocean Monument:
+X: 2150 Z: 370
+
+Custom Desert Temple:
+X: 750 Z: 970
+
+And some other small ruin structures and couple Pillager Outposts :)
